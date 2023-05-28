@@ -19,3 +19,6 @@ OR
 
 ## Warns
 * This is just a demo app and I didn't used databases, so the new recipes created will disappear after close the app
+
+## Credits
+* I improved the base-app that I created following [DesingCode Turorial](https://youtu.be/uSanD_pFwis)
